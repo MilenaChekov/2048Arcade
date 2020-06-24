@@ -1,4 +1,4 @@
-There is a "2048" clone (https://play2048.co/)
+This is a "2048" clone (https://play2048.co/)
 
 **Ready to start:**
 1. arcade library (https://arcade.academy/)
